@@ -11,4 +11,5 @@ public class Plaer : MonoBehaviour
     public float Damage => _damage;
 
     public void SetHealth(float newValue) => _health = newValue;
+    
 }
